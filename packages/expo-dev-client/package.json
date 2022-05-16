@@ -33,7 +33,7 @@
   "homepage": "https://docs.expo.dev/clients/introduction/",
   "dependencies": {
     "@expo/config-plugins": "^4.0.14",
-    "expo-dev-launcher": "0.11.5",
+    "expo-dev-launcher": "file:../expo-dev-launcher",
     "expo-dev-menu": "0.10.6",
     "expo-dev-menu-interface": "0.6.0",
     "expo-manifests": "~0.3.0",
